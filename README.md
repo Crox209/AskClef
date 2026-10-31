@@ -1,5 +1,8 @@
 # AskClef
 
+<img width="1194" height="817" alt="image" src="https://github.com/user-attachments/assets/0430a216-4166-4a55-9e01-2dcb7887dbbc" />
+
+
 **Ask a question. Explore your options.**
 
 AskClef is a desktop app for structured decisions with a locally configured model server. Ask a yes/no question, compare multiple choices, or score an option against a scale. Add context and supported files, then inspect the answer and its estimated probabilities.
